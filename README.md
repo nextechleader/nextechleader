@@ -7,7 +7,7 @@ NexTechLeaders nace con la idea de ser el hub #1 en España para desarrolladores
 
 👉Estará formado por varios cursos que te enseñarán cómo completar proyectos del mundo real y ganarse la vida como un desarrollador.
 
-👇Nuestros programas👇
+👉Nuestros programas👉
 ➡️ Experto en crear tus propios Tokens
 ➡️ Full Stack Development Blockchain
 ➡️DeFi development mastery

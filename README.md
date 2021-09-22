@@ -3,6 +3,7 @@
 
 Que es NexTechLeaders?
 
+
 NexTechLeaders nace con la idea de ser el hub #1 en España para desarrolladores de Blockchain 🚀
 
 👉Estará formado por varios cursos que te enseñarán cómo completar proyectos del mundo real y ganarse la vida como un desarrollador.

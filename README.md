@@ -1,6 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="![f7pd4mqZ_400x400](https://user-images.githubusercontent.com/90309263/232328825-ddb79af0-055a-47c0-9857-0e0ce16b165b.jpg)
-" />
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/90309263/232328825-ddb79af0-055a-47c0-9857-0e0ce16b165b.jpg" />
    <h3 align="center">¡Hey 👋! Soy Jonatan Jiménez👨🏻‍💻</h3>
 </p>
 

@@ -1,9 +1,9 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/90309263/232328825-ddb79af0-055a-47c0-9857-0e0ce16b165b.jpg" />
-   <h3 align="center">¡Hey 👋! Soy Jonatan Jiménez👨🏻‍💻</h3>
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/90309263/236269538-29b962da-1229-4a4f-9329-193f6a7a1f91.png" />
+   <h3 align="center">¡Hey 👋! Bienvenid@s a NexTechLeaders👨🏻‍💻</h3>
 </p>
 
-<p align="center">Aprende lo último en tecnología. <strong>Blockchain, Web3, Machine Learning, IA, Natural Language<br />¡Revisa mi contenido 👇!</p>
+<p align="center">Aprende lo último en tecnología. <strong>Blockchain y Web3<br />¡Revisa mi contenido 👇!</p>
 <p align="center">
    <a href="https://youtube.com/@jonatanjimeneza" target="blank" style='margin-right:4px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="jonatanjimeneza" height="28px" width="28px" />
